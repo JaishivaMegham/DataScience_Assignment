@@ -1,0 +1,27 @@
+PS-1: Define the Feature Vector for Songs Classification
+
+S-1: Possible feature for Songs classification are:
+      Language, 
+      Type1 - Album/Movie Song, 
+      Type2 - Rock/Pop/Classic, 
+      Duration, 
+      Timeline - year,
+      Timeline - Decade,
+      Singers Count,
+      Singer Male,
+      Singer Female,
+      Success Rate,
+      Instruments Used,
+      Media Type - Digital/Tape,
+      Lyric writer
+   
+
+PS-2: Define the Feature Vector for Disease Classification based on the X-Ray
+
+S-1: Possible feature for Disease classification are:
+      Organ of the Body: X-ray was taken,
+      Gender,
+      Age,
+      Pixel Quality of X-ray,
+      Expertise of the person who is reading the x-ray
+
